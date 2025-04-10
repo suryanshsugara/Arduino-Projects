@@ -15,7 +15,7 @@ This repository contains an Arduino project that connects to a WiFi network, rea
 
 ## Setup Instructions
 1. Clone this repository:
-git clone https://github.com/suryanshsugara/WiFi-DHT11-ThingSpeak.git
+git clone https://github.com/suryanshsugara/Arduino-Projects.git
 
 2. Open `main.ino` in Arduino IDE.
 
