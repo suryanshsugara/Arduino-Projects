@@ -1,0 +1,16 @@
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.d
+
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+
+libraries/
